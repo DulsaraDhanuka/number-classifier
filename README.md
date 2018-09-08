@@ -6,7 +6,9 @@ To use this model run run.py via python
 requirements
 
 -tensorflow
+
 -numpy
+
 -cv2
 
 To train a model you could use the same dataset i've use just extract the training-data.zip
